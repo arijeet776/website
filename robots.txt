@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digisanchaar.online/sitemap.xml
